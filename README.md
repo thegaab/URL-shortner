@@ -25,8 +25,8 @@ Um encurtador de URLs desenvolvido em Java, com integração à AWS para uma sol
 1- Clone o repositório:
 
 ```bash
-git clone https://github.com/thegaab/URL-shortner.git
-cd url-shortner
+git clone https://github.com/thegaab/URL-shortener.git
+cd url-shortener
 ```
 
 2- Configure as credenciais AWS (em ~/.aws/credentials ou use variáveis de ambiente).
